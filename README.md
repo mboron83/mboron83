@@ -1,5 +1,5 @@
 ### Welcome 👋
-My name is Martin and since 2002 I'm software engineer. I’m currently working on some investment fund stuff project 🔥 
+My name is Martin and since 2007 I'm software engineer. I’m currently working on some investment fund stuff project 🔥 
 
 ### Technologies I feel comfortable with
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Php&logoColor=white&color=2bbc8a)
